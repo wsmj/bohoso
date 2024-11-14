@@ -1,0 +1,9 @@
+int32 team_number
+float64 uav_latitude
+float64 uav_longitude
+float32 uav_altitude
+float32 uav_elevation
+int32 uav_orientation
+float32 uav_banking
+float32 uav_speed
+int32 time_difference
